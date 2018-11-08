@@ -1,0 +1,7 @@
+src/radix.cc: In member function ‘void ParallelRadixSort::msd(std::vector<std::reference_wrapper<std::vector<unsigned int> > >&, unsigned int)’:
+src/radix.cc:102:23: warning: unused variable ‘number’ [-Wunused-variable]
+     for (unsigned int number: list.get()){
+                       ^
+src/radix.cc:108:23: warning: unused variable ‘number’ [-Wunused-variable]
+     for (unsigned int number: bucket){
+                       ^

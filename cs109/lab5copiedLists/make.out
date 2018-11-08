@@ -1,0 +1,10 @@
+src/radix.cc: In member function ‘void RadixSort::msd(std::vector<std::reference_wrapper<std::vector<unsigned int> > >&)’:
+src/radix.cc:60:11: error: no match for ‘operator=’ (operand types are ‘__gnu_cxx::__alloc_traits<std::allocator<std::reference_wrapper<std::vector<unsigned int> > > >::value_type {aka std::reference_wrapper<std::vector<unsigned int> >}’ and ‘std::vector<unsigned int>*’)
+  lists[0] = &sortedNums;
+           ^
+In file included from src/radix.h:9:0,
+                 from src/radix.cc:15:
+/usr/include/c++/5/functional:415:7: note: candidate: std::reference_wrapper<_Tp>& std::reference_wrapper<_Tp>::operator=(const std::reference_wrapper<_Tp>&) [with _Tp = std::vector<unsigned int>]
+       operator=(const reference_wrapper&) = default;
+       ^
+/usr/include/c++/5/functional:415:7: note:   no known conversion for argument 1 from ‘std::vector<unsigned int>*’ to ‘const std::reference_wrapper<std::vector<unsigned int> >&’

@@ -1,0 +1,17 @@
+Numbers: 55555 Lists: 12 Cores: 6
+Generating expected results... 
+Generate time: 0.819442 seconds
+Creating RadixSort with 6 cores
+Running RadixSort.msd()... 
+
+cores, lists6 12
+Elapsed time: 7.758455 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 FAIL
+List 3 PASS
+List 4 FAIL
+List 5 PASS
+List 6 PASS
+List 7 PAS

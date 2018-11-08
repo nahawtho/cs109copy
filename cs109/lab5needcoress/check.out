@@ -1,0 +1,273 @@
+Numbers: 55555 Lists: 1 Cores: 1
+Generating expected results... 
+Generate time: 0.78315 seconds
+Creating RadixSort with 1 cores
+Running RadixSort.msd()... 
+1
+
+0
+
+listssize1
+
+cores and moop1 0
+first place I wanna bElapsed time: 0.441294 seconds
+Comparing results... 
+List 0 PASS
+Numbers: 55555 Lists: 2 Cores: 1
+Generating expected results... 
+Generate time: 0.829512 seconds
+Creating RadixSort with 1 cores
+Running RadixSort.msd()... 
+1
+
+0
+
+listssize2
+
+cores and moop1 0
+first place I wanna b
+listssize2
+
+cores and moop1 1
+first place I wanna bElapsed time: 0.946503 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+Numbers: 55555 Lists: 2 Cores: 2
+Generating expected results... 
+Generate time: 0.840845 seconds
+Creating RadixSort with 2 cores
+Running RadixSort.msd()... 
+2
+
+0
+
+listssize2
+
+cores and moop2 0
+first place I wanna b
+listssize2
+
+cores and moop2 1
+where i wanna b
+0
+got hereElapsed time: 0.527016 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+Numbers: 55555 Lists: 3 Cores: 1
+Generating expected results... 
+Generate time: 0.776108 seconds
+Creating RadixSort with 1 cores
+Running RadixSort.msd()... 
+1
+
+0
+
+listssize3
+
+cores and moop1 0
+first place I wanna b
+listssize3
+
+cores and moop1 1
+first place I wanna b
+listssize3
+
+cores and moop1 2
+first place I wanna bElapsed time: 1.397348 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 FAIL
+Numbers: 55555 Lists: 3 Cores: 2
+Generating expected results... 
+Generate time: 0.831221 seconds
+Creating RadixSort with 2 cores
+Running RadixSort.msd()... 
+2
+
+1
+
+listssize3
+
+cores and moop2 0
+first place I wanna b
+listssize3
+
+cores and moop2 1
+first place I wanna b
+listssize3
+
+cores and moop2 2
+where i wanna b
+1
+got hereElapsed time: 1.536677 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 FAIL
+Numbers: 55555 Lists: 3 Cores: 3
+Generating expected results... 
+Generate time: 0.89322 seconds
+Creating RadixSort with 3 cores
+Running RadixSort.msd()... 
+3
+
+0
+
+listssize3
+
+cores and moop3 0
+first place I wanna b
+listssize3
+
+cores and moop3 1
+where i wanna b
+0
+got here
+listssize3
+
+cores and moop3 2
+where i wanna b
+0
+got hereElapsed time: 0.612382 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 FAIL
+Numbers: 55555 Lists: 4 Cores: 1
+Generating expected results... 
+Generate time: 0.826189 seconds
+Creating RadixSort with 1 cores
+Running RadixSort.msd()... 
+1
+
+0
+
+listssize4
+
+cores and moop1 0
+first place I wanna b
+listssize4
+
+cores and moop1 1
+first place I wanna b
+listssize4
+
+cores and moop1 2
+first place I wanna b
+listssize4
+
+cores and moop1 3
+first place I wanna bElapsed time: 1.951735 seconds
+Comparing results... 
+List 0 PASS
+List 1 FAIL
+List 2 PASS
+List 3 PASS
+Numbers: 55555 Lists: 4 Cores: 2
+Generating expected results... 
+Generate time: 0.822641 seconds
+Creating RadixSort with 2 cores
+Running RadixSort.msd()... 
+2
+
+0
+
+listssize4
+
+cores and moop2 0
+first place I wanna b
+listssize4
+
+cores and moop2 1
+first place I wanna b
+listssize4
+
+cores and moop2 2
+first place I wanna b
+listssize4
+
+cores and moop2 3
+where i wanna b
+0
+got hereElapsed time: 1.560338 seconds
+Comparing results... 
+List 0 FAIL
+List 1 FAIL
+List 2 PASS
+List 3 FAIL
+Numbers: 55555 Lists: 4 Cores: 3
+Generating expected results... 
+Generate time: 0.8276 seconds
+Creating RadixSort with 3 cores
+Running RadixSort.msd()... 
+3
+
+1
+
+listssize4
+
+cores and moop3 0
+first place I wanna b
+listssize4
+
+cores and moop3 1
+first place I wanna b
+listssize4
+
+cores and moop3 2
+where i wanna b
+1
+got here
+listssize4
+
+cores and moop3 3
+where i wanna b
+1
+got hereElapsed time: 2.132814 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 PASS
+List 3 PASS
+Numbers: 55555 Lists: 4 Cores: 4
+Generating expected results... 
+Generate time: 0.832972 seconds
+Creating RadixSort with 4 cores
+Running RadixSort.msd()... 
+4
+
+0
+
+listssize4
+
+cores and moop4 0
+first place I wanna b
+listssize4
+
+cores and moop4 1
+where i wanna b
+0
+got here
+listssize4
+
+cores and moop4 2
+where i wanna b
+0
+got here
+listssize4
+
+cores and moop4 3
+where i wanna b
+0
+got hereElapsed time: 0.709575 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 PASS
+List 3 PASS
+
+               Tests:   23/ 30    76.0%
+

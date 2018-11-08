@@ -1,0 +1,14 @@
+--- out3.txt	2017-03-25 19:22:27.000000001 -0700
++++ model-out3.txt	2017-03-25 19:21:55.000000001 -0700
+@@ -1,3 +1,7 @@
+-Enter the degree: 
+-Enter 7 coefficients: 
+-Enter the left and right endpoints: No roots were found in the specified range.
+\ No newline at end of file
++Enter the degree: Enter 7 coefficients: Enter the left and right endpoints: 
++Root found at -2.23607
++Root found at -1.73205
++Root found at -1.41421
++Root found at 1.41421
++Root found at 1.73205
++Root found at 2.23607

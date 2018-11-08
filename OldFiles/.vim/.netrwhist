@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/afs/cats.ucsc.edu/users/b/nahawtho/cs/lab7'
+let g:netrw_dirhist_2='/afs/cats.ucsc.edu/users/b/nahawtho/cs/Sphere.c'
+let g:netrw_dirhist_3='/afs/cats.ucsc.edu/users/b/nahawtho/cs/pa6'
+let g:netrw_dirhist_4='/afs/cats.ucsc.edu/users/b/nahawtho/cmps12b/misc/linkedlist'
+let g:netrw_dirhist_5='/afs/cats.ucsc.edu/users/b/nahawtho/cmps12b/assignment2'
+let g:netrw_dirhist_6='/afs/cats.ucsc.edu/users/b/nahawtho/ctrlp.vim'

@@ -1,0 +1,59 @@
+Numbers: 55555 Lists: 4 Cores: 4
+Generating expected results... 
+Generate time: 0.518408 seconds
+Creating RadixSort with 1 core
+Running RadixSort.msd()... 
+Single Elapsed time: 1.134500 seconds
+Creating RadixSort with 4 cores
+Running RadixSort.msd()... 
+Cores Elapsed time: 1.116757 seconds
+Speedup: 25%
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 PASS
+List 3 PASS
+Speedup 4 lists 4 cores: achieved: 25% : FAIL ( insufficient speedup )
+
+Numbers: 55555 Lists: 6 Cores: 6
+Generating expected results... 
+Generate time: 0.602795 seconds
+Creating RadixSort with 1 core
+Running RadixSort.msd()... 
+Single Elapsed time: 1.920370 seconds
+Creating RadixSort with 6 cores
+Running RadixSort.msd()... 
+Cores Elapsed time: 1.789917 seconds
+Speedup: 17%
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 PASS
+List 3 PASS
+List 4 FAIL
+List 5 PASS
+Speedup 6 lists 6 cores: FAIL ( functional - 1 failures )
+
+Numbers: 55555 Lists: 8 Cores: 8
+Generating expected results... 
+Generate time: 0.837347 seconds
+Creating RadixSort with 1 core
+Running RadixSort.msd()... 
+Single Elapsed time: 2.557060 seconds
+Creating RadixSort with 8 cores
+Running RadixSort.msd()... 
+Cores Elapsed time: 2.287491 seconds
+Speedup: 13%
+Comparing results... 
+List 0 FAIL
+List 1 PASS
+List 2 FAIL
+List 3 FAIL
+List 4 PASS
+List 5 PASS
+List 6 PASS
+List 7 PASS
+Speedup 8 lists 8 cores: FAIL ( functional - 3 failures )
+
+Numbers: 55555 Lists: 10 Cores: 10
+Generating expected results... 

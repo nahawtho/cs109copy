@@ -1,0 +1,125 @@
+Numbers: 55555 Lists: 10 Cores: 10
+Generating expected results... 
+Generate time: 1.18977 seconds
+Creating RadixSort with 1 core
+Running RadixSort.msd()... 
+1
+
+0
+
+listssize10
+
+cores and moop1 0
+first place I wanna b
+listssize10
+
+cores and moop1 1
+first place I wanna b
+listssize10
+
+cores and moop1 2
+first place I wanna b
+listssize10
+
+cores and moop1 3
+first place I wanna b
+listssize10
+
+cores and moop1 4
+first place I wanna b
+listssize10
+
+cores and moop1 5
+first place I wanna b
+listssize10
+
+cores and moop1 6
+first place I wanna b
+listssize10
+
+cores and moop1 7
+first place I wanna b
+listssize10
+
+cores and moop1 8
+first place I wanna b
+listssize10
+
+cores and moop1 9
+first place I wanna bSingle Elapsed time: 4.410668 seconds
+Creating RadixSort with 10 cores
+Running RadixSort.msd()... 
+10
+
+0
+
+listssize10
+
+cores and moop10 0
+first place I wanna b
+listssize10
+
+cores and moop10 1
+where i wanna b
+0
+got here
+listssize10
+
+cores and moop10 2
+where i wanna b
+0
+got here
+listssize10
+
+cores and moop10 3
+where i wanna b
+0
+got here
+listssize10
+
+cores and moop10 4
+where i wanna b
+0
+got here
+listssize10
+
+cores and moop10 5
+where i wanna b
+0
+got here
+listssize10
+
+cores and moop10 6
+where i wanna b
+0
+got here
+listssize10
+
+cores and moop10 7
+where i wanna b
+0
+got here
+listssize10
+
+cores and moop10 8
+where i wanna b
+0
+got here
+listssize10
+
+cores and moop10 9
+where i wanna b
+0
+got hereCores Elapsed time: 0.997434 seconds
+Speedup: 44%
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 FAIL
+List 3 FAIL
+List 4 PASS
+List 5 PASS
+List 6 PASS
+List 7 PASS
+List 8 FAIL
+List 9 PASS

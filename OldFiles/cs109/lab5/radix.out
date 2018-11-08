@@ -1,0 +1,102 @@
+Numbers: 55555 Lists: 1 Cores: 1
+Generating expected results... 
+Generate time: 0.489081 seconds
+Creating RadixSort with 1 cores
+Running RadixSort.msd()... 
+
+cores, lists1 1
+
+lists.length():1Elapsed time: 0.317838 seconds
+Comparing results... 
+List 0 FAIL
+Numbers: 55555 Lists: 2 Cores: 1
+Generating expected results... 
+Generate time: 0.468634 seconds
+Creating RadixSort with 1 cores
+Running RadixSort.msd()... 
+
+cores, lists1 2
+
+lists.length():2Elapsed time: 0.629081 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+Numbers: 55555 Lists: 2 Cores: 2
+Generating expected results... 
+Generate time: 0.472071 seconds
+Creating RadixSort with 2 cores
+Running RadixSort.msd()... 
+
+cores, lists2 2
+
+lists.length():2Elapsed time: 0.717357 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+Numbers: 55555 Lists: 3 Cores: 1
+Generating expected results... 
+Generate time: 0.47908 seconds
+Creating RadixSort with 1 cores
+Running RadixSort.msd()... 
+
+cores, lists1 3
+
+lists.length():3Elapsed time: 0.936938 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 PASS
+Numbers: 55555 Lists: 3 Cores: 2
+Generating expected results... 
+Generate time: 0.482563 seconds
+Creating RadixSort with 2 cores
+Running RadixSort.msd()... 
+
+cores, lists2 3
+
+lists.length():3Elapsed time: 1.138695 seconds
+Comparing results... 
+List 0 FAIL
+List 1 PASS
+List 2 FAIL
+Numbers: 55555 Lists: 3 Cores: 3
+Generating expected results... 
+Generate time: 0.476205 seconds
+Creating RadixSort with 3 cores
+Running RadixSort.msd()... 
+
+cores, lists3 3
+
+lists.length():3Elapsed time: 1.205618 seconds
+Comparing results... 
+List 0 FAIL
+List 1 PASS
+List 2 PASS
+Numbers: 55555 Lists: 4 Cores: 1
+Generating expected results... 
+Generate time: 0.490603 seconds
+Creating RadixSort with 1 cores
+Running RadixSort.msd()... 
+
+cores, lists1 4
+
+lists.length():4Elapsed time: 1.253224 seconds
+Comparing results... 
+List 0 PASS
+List 1 FAIL
+List 2 FAIL
+List 3 PASS
+Numbers: 55555 Lists: 4 Cores: 2
+Generating expected results... 
+Generate time: 0.489187 seconds
+Creating RadixSort with 2 cores
+Running RadixSort.msd()... 
+
+cores, lists2 4
+
+lists.length():4Elapsed time: 1.450517 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 FAIL
+List 3 PASS

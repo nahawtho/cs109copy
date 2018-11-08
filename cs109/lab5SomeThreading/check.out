@@ -1,0 +1,113 @@
+Numbers: 55555 Lists: 1 Cores: 1
+Generating expected results... 
+Generate time: 0.473229 seconds
+Creating RadixSort with 1 cores
+Running RadixSort.msd()... 
+1
+Elapsed time: 0.448681 seconds
+Comparing results... 
+List 0 PASS
+Numbers: 55555 Lists: 2 Cores: 1
+Generating expected results... 
+Generate time: 0.49367 seconds
+Creating RadixSort with 1 cores
+Running RadixSort.msd()... 
+1
+Elapsed time: 0.580145 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+Numbers: 55555 Lists: 2 Cores: 2
+Generating expected results... 
+Generate time: 0.590002 seconds
+Creating RadixSort with 2 cores
+Running RadixSort.msd()... 
+2
+Elapsed time: 0.966118 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+Numbers: 55555 Lists: 3 Cores: 1
+Generating expected results... 
+Generate time: 0.585295 seconds
+Creating RadixSort with 1 cores
+Running RadixSort.msd()... 
+1
+Elapsed time: 0.988465 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 PASS
+Numbers: 55555 Lists: 3 Cores: 2
+Generating expected results... 
+Generate time: 0.555243 seconds
+Creating RadixSort with 2 cores
+Running RadixSort.msd()... 
+2
+Elapsed time: 1.568973 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 PASS
+Numbers: 55555 Lists: 3 Cores: 3
+Generating expected results... 
+Generate time: 0.682735 seconds
+Creating RadixSort with 3 cores
+Running RadixSort.msd()... 
+3
+Elapsed time: 1.124410 seconds
+Comparing results... 
+List 0 FAIL
+List 1 PASS
+List 2 PASS
+Numbers: 55555 Lists: 4 Cores: 1
+Generating expected results... 
+Generate time: 0.45007 seconds
+Creating RadixSort with 1 cores
+Running RadixSort.msd()... 
+1
+Elapsed time: 1.136022 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 PASS
+List 3 PASS
+Numbers: 55555 Lists: 4 Cores: 2
+Generating expected results... 
+Generate time: 0.584627 seconds
+Creating RadixSort with 2 cores
+Running RadixSort.msd()... 
+2
+Elapsed time: 1.351618 seconds
+Comparing results... 
+List 0 FAIL
+List 1 FAIL
+List 2 PASS
+List 3 FAIL
+Numbers: 55555 Lists: 4 Cores: 3
+Generating expected results... 
+Generate time: 0.461516 seconds
+Creating RadixSort with 3 cores
+Running RadixSort.msd()... 
+3
+Elapsed time: 1.501126 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 PASS
+List 3 PASS
+Numbers: 55555 Lists: 4 Cores: 4
+Generating expected results... 
+Generate time: 0.448361 seconds
+Creating RadixSort with 4 cores
+Running RadixSort.msd()... 
+4
+Elapsed time: 1.578341 seconds
+Comparing results... 
+List 0 PASS
+List 1 PASS
+List 2 PASS
+List 3 FAIL
+
+               Tests:   25/ 30    83.0%
+

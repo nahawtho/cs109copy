@@ -1,0 +1,4 @@
+src/radix.cc: In constructor ‘RadixSort::RadixSort(unsigned int)’:
+src/radix.cc:46:59: error: ‘size’ was not declared in this scope
+ vacant = sem_open(SEM_VACANT, O_CREAT, S_IRUSR | S_IWUSR, size);
+                                                           ^

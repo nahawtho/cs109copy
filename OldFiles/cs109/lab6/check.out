@@ -1,0 +1,27 @@
+Numbers: 500,000 Lists: 1 Cores: 12
+Generating 500,000 random numbers... 
+Generating expected results... 
+Generate time: 0.777659 seconds
+Running ParallelRadixSort::msd() with 12 cores.. .
+12
+Numbers: 500,000 Lists: 2 Cores: 12
+Generating 1,000,000 random numbers... 
+Generating expected results... 
+Generate time: 0.922567 seconds
+Running ParallelRadixSort::msd() with 12 cores.. .
+12
+Numbers: 500,000 Lists: 3 Cores: 12
+Generating 1,500,000 random numbers... 
+Generating expected results... 
+Generate time: 1.41607 seconds
+Running ParallelRadixSort::msd() with 12 cores.. .
+12
+Numbers: 500,000 Lists: 4 Cores: 12
+Generating 2,000,000 random numbers... 
+Generating expected results... 
+Generate time: 1.81556 seconds
+Running ParallelRadixSort::msd() with 12 cores.. .
+12
+
+               Tests:    0/  0     0.0%
+

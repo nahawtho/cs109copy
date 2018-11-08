@@ -1,0 +1,7 @@
+1. Sentence code errors are expressed decievingly. Instead of x "is a valid sentence code," it should say x "is not a valid sentence code."
+2. The code for sentence 4 (send money) should check that the amount is positive, as sending negative money does not makes sense. It should print out "ERROR" at the end of the sentence.
+3. Sentence 4 is gramatically incorrect. Should be "I have to buy another book for one of my classes," not books.
+4. When the integer sequence "5 2" is entered, there is no period.
+5. when 2 4 is entered, the program should say "The weather here has been cold," not "The weather here has been hot."
+6. When 3 3 is entered, the program's output should read "I plan to come home for visit next weekend," not "I plan to come home for a visit last weekend."
+7. When an invalid sentence code is used for sentence 5, the output reads "Thanks for the ERROR," but it should read "Thanks for the ERROR you sent."

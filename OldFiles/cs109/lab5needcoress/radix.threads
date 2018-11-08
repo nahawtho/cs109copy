@@ -1,0 +1,49 @@
+Name:	radix
+State:	S (sleeping)
+Tgid:	18391
+Ngid:	0
+Pid:	18391
+PPid:	16398
+TracerPid:	0
+Uid:	218370	218370	218370	218370
+Gid:	100000	100000	100000	100000
+FDSize:	256
+Groups:	2001 100000 1104127196 
+NStgid:	18391
+NSpid:	18391
+NSpgid:	12158
+NSsid:	1045
+VmPeak:	  189984 kB
+VmSize:	  189984 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   12480 kB
+VmRSS:	   12480 kB
+VmData:	  174752 kB
+VmStk:	     132 kB
+VmExe:	     100 kB
+VmLib:	    4664 kB
+VmPTE:	     148 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	6
+SigQ:	0/515542
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000000006
+SigCgt:	0000000180000000
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	ffffffff
+Cpus_allowed_list:	0-31
+Mems_allowed:	00000000,00000003
+Mems_allowed_list:	0-1
+voluntary_ctxt_switches:	4
+nonvoluntary_ctxt_switches:	17

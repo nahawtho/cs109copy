@@ -1,0 +1,49 @@
+Name:	perf
+State:	S (sleeping)
+Tgid:	3875
+Ngid:	0
+Pid:	3875
+PPid:	3868
+TracerPid:	0
+Uid:	218370	218370	218370	218370
+Gid:	100000	100000	100000	100000
+FDSize:	256
+Groups:	2001 100000 1104130103 
+NStgid:	3875
+NSpid:	3875
+NSpgid:	8671
+NSsid:	14113
+VmPeak:	  224000 kB
+VmSize:	   60072 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   12908 kB
+VmRSS:	   12260 kB
+VmData:	   41856 kB
+VmStk:	     132 kB
+VmExe:	     144 kB
+VmLib:	    4664 kB
+VmPTE:	      96 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+Threads:	2
+SigQ:	0/515542
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000000006
+SigCgt:	0000000180000000
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	0000003fffffffff
+CapAmb:	0000000000000000
+Seccomp:	0
+Speculation_Store_Bypass:	vulnerable
+Cpus_allowed:	ffffffff
+Cpus_allowed_list:	0-31
+Mems_allowed:	00000000,00000003
+Mems_allowed_list:	0-1
+voluntary_ctxt_switches:	4668
+nonvoluntary_ctxt_switches:	21
